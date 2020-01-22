@@ -372,6 +372,18 @@ K I2C DAC 8-bit
 F http://www.ti.com/lit/ds/symlink/dac081c081.pdf
 $ENDCMP
 #
+$CMP DAC084S085CIMM
+D QUAD Digital-to-Analog Converter with Rail-to-Rail Output
+K 4 QUAD DAC Digital-to-Analog Converter with Rail-to-Rail Voltage Output
+F www.ti.com/lit/ds/symlink/dac084s085.pdf
+$ENDCMP
+#
+$CMP DAC084S085CISD
+D QUAD Digital-to-Analog Converter with Rail-to-Rail Output
+K 4 QUAD DAC Digital-to-Analog Converter with Rail-to-Rail Voltage Output
+F www.ti.com/lit/ds/symlink/dac084s085.pdf
+$ENDCMP
+#
 $CMP DAC101C081CIMK
 D 10-bit Micropower DAC with I2C-Compatible Interface, SOT-23-6
 K I2C DAC 10-bit

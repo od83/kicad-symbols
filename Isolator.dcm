@@ -588,6 +588,12 @@ K 4Ch Quad Digital Isolator 25Mbps
 F http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=iso7342fc&fileType=pdf
 $ENDCMP
 #
+$CMP ISO7710xD
+D Low-Power Single-Channel Digital Isolator 100Mbps 3kV
+K 1Ch Single Digital Isolator 100Mbps 3kV
+F http://www.ti.com/lit/gpn/ISO7710
+$ENDCMP
+#
 $CMP LTV-247
 D DC Quad Optocoupler, Vce 80V, CTR 100-600%, SOP-16
 K NPN DC Quad Optocoupler
@@ -994,6 +1000,42 @@ $CMP SFH620A-3X016
 D Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 100-320 VDE, UL, CUL, BSI, SMD-4
 K Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 100-320
 F http://www.vishay.com/docs/83675/sfh620a.pdf
+$ENDCMP
+#
+$CMP SI8410AB
+D Low-Power Single-Channel Digital Isolator 1Mbps 2.5kV
+K 1Ch Single Digital Isolator 1Mbps 2.5kV
+F https://www.silabs.com/documents/public/data-sheets/si841x-2x-datasheet.pdf
+$ENDCMP
+#
+$CMP SI8410BB
+D Low Power Single-Channel Digital Isolator 150Mbps 2.5kV
+K 1Ch Single Digital Isolator 150Mbps 2.5kV
+F https://www.silabs.com/documents/public/data-sheets/si841x-2x-datasheet.pdf
+$ENDCMP
+#
+$CMP SI8420AB
+D Low-Power Dual-Channel Digital Isolator 1Mbps 2.5kV
+K 2Ch Dual Digital Isolator 1Mbps 2.5kV
+F https://www.silabs.com/documents/public/data-sheets/si841x-2x-datasheet.pdf
+$ENDCMP
+#
+$CMP SI8420AD
+D Low-Power Dual-Channel Digital Isolator 1Mbps 5kV
+K 2Ch Dual Digital Isolator 1Mbps 5kV
+F https://www.silabs.com/documents/public/data-sheets/si841x-2x-datasheet.pdf
+$ENDCMP
+#
+$CMP SI8420BB
+D Low Power Dual-Channel Digital Isolator 150Mbps 2.5kV
+K 2Ch Dual Digital Isolator 150Mbps 2.5kV
+F https://www.silabs.com/documents/public/data-sheets/si841x-2x-datasheet.pdf
+$ENDCMP
+#
+$CMP SI8420BD
+D Low-Power Dual-Channel Digital Isolator 150Mbps 5kV
+K 2Ch Dual Digital Isolator 1Mbps 5kV
+F https://www.silabs.com/documents/public/data-sheets/si841x-2x-datasheet.pdf
 $ENDCMP
 #
 $CMP Si8640BA-B-IU
